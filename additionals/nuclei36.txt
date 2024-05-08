@@ -1,0 +1,6 @@
+[xss-serialize-javascript] [file] [info] 10.15.42.36
+[CVE-2023-48795] [javascript] [medium] 10.15.42.36:22 ["Vulnerable to Terrapin"]
+[ssh-auth-methods] [javascript] [info] 10.15.42.36:22 ["["publickey","password"]"]
+[ssh-sha1-hmac-algo] [javascript] [info] 10.15.42.36:22
+[ssh-server-enumeration] [javascript] [info] 10.15.42.36:22 ["SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5"]
+[openssh-detect] [tcp] [info] 10.15.42.36:22 ["SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.5"]

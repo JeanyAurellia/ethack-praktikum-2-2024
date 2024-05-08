@@ -1,0 +1,4 @@
+[metatag-cms] [http] [info] http://10.15.42.7 ["WordPress 6.5.2"]
+[tech-detect:php] [http] [info] http://10.15.42.7
+[wordpress-readme-file] [http] [info] http://10.15.42.7/readme.html
+[wordpress-detect:version_by_js] [http] [info] http://10.15.42.7 ["6.5.2"]
